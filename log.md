@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: October 1st, 2018
+### Day 1: October 1st, 2018
 
 #####
 
@@ -19,3 +19,27 @@ Just to be clear, these tools are actually amazing, free and open source.
 **Plans for tomorrow:** I want to start building a conceptual restaurant app. I think I will try building it with WordPress REST API and React on the Front End.
 
 **Link to work:** [DrifterCode.com](https://driftercode.com), [kodeFant.no](https://kodefant.no) and [The Github repository](https://github.com/kodeFant/wp_kodefant)
+
+### Day 2: October 2st, 2018
+
+#####
+
+**Today's Progress:** I decided to work on making the CSS Grids on my site [DrifterCode (eng)](https://driftercode.com)/[kodeFant (no)](https://kodefant.no) work on Internet Explorer 11. It was a dreadful, but I finally made it work on post-view and blog list. Lots of credit goes to this [CSS-Tricks and their series about Grid in IE](https://css-tricks.com/css-grid-in-ie-debunking-common-ie-grid-misconceptions/).
+
+I chose to completely replace my auto-placement grid for Blog Posts with Flexbox as it did the excact same thing. I adapted the technique in part three of that CSS-Tricks series.
+
+
+**Thoughts:** It was a big effort making the CSS grid work with IE11, even when using autoprefixer with their grid support enables. 
+
+I want to support IE11 because about [10 percent of Norwegians use IE](http://gs.statcounter.com/browser-market-share/all/norway), and lots of them are in large organisations. I of course want to make a good impression on these organisations.
+
+It's not fun adding support to IE11, but I think I learned something today that can be valuable in the time to come.
+
+I have chosen not to add the Bootstrap to my website. It makes stuff including grid easyer, but I wanted to really improve my skills on CSS.
+
+The upside to the hardships of today is that I found a fun CSS Grid Game: [Grid Garden](http://cssgridgarden.com/) :)
+
+**Plans for tomorrow:** I discovered that my pages-view on DrifterCode.com displays really poorly on IE11, so I will continue on that before moving on to a new project.
+
+**Link to work:** [DrifterCode.com](https://driftercode.com), [kodeFant.no](https://kodefant.no) and [The Github repository](https://github.com/kodeFant/wp_kodefant)
+
