@@ -43,3 +43,15 @@ The upside to the hardships of today is that I found a fun CSS Grid Game: [Grid 
 
 **Link to work:** [DrifterCode.com](https://driftercode.com), [kodeFant.no](https://kodefant.no) and [The Github repository](https://github.com/kodeFant/wp_kodefant)
 
+### Day 3: October 3rd, 2018
+
+#####
+
+**Today's Progress:** Short workday today as I am sitting on the bus to Gothenburg for a small trip. Had some connection troubles so decided to postpone IE11 optimization and start building on my restaurant app. I started a new create-react-app project and set up some markup in JSX. I also decided to go with Bootstrap on this one.
+
+
+**Thoughts:** It feels good to build with React again after a long period of WordPress. I am still not totally decided on WP REST API og Laravel for the back end, but I thin I want to try WP REST API to test how well it runs with React.
+
+**Plans for tomorrow:** Taking the bus back home to Oslo. Will probably continue on the Restaurant app then.
+
+**Link to work:** Deployment not yet ready yet. I have a [Github repository](https://github.com/kodeFant/restaurant-app)
