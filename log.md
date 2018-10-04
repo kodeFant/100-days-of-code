@@ -55,3 +55,17 @@ The upside to the hardships of today is that I found a fun CSS Grid Game: [Grid 
 **Plans for tomorrow:** Taking the bus back home to Oslo. Will probably continue on the Restaurant app then.
 
 **Link to work:** Deployment not yet ready yet. I have a [Github repository](https://github.com/kodeFant/restaurant-app)
+
+### Day 4: October 4rd, 2018
+
+#####
+
+**Today's Progress:** Heading home for Oslo today. Had only time to code on the bus. I familiarized myself with Reactstrap for using Bootstrap component in React. I really liked it. It seems like a timesaver and it has ready-made bootstrap component that I can freely modify. Loving it.
+
+
+**Thoughts:** After doing custom CSS for a while, it feels like Bootstrap makes things really quick, but requires you to do a lot of styling over that again t avoid the "bootstrappy" look. Still, it is still a great time-saver for projects that needs a user interface pretty fast.
+
+
+**Plans for tomorrow:** Returning to IE11 optimization on my current blog. Will probably also deploy early version of the Restaurant app.
+
+**Link to work:** Deployment not yet ready yet for the restaurant app. I have a [Github repository](https://github.com/kodeFant/restaurant-app)
