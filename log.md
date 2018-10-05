@@ -87,3 +87,5 @@ Even though I think custom CSS is great and more fun, I am using Bootstrap on my
 **Plans for tomorrow:** Countinue on the restaurant app, and maybe get to deploy an early version.
 
 **Link to work:** [kodefant.no](https://kodefant.no) and [driftercode.com](https://driftercode.com) Deployment not yet ready for the restaurant app. I have a [Github repository](https://github.com/kodeFant/restaurant-app) for it.
+
+![alt text](img/screenshot5.png)
