@@ -20,7 +20,7 @@ Just to be clear, these tools are actually amazing, free and open source.
 
 **Link to work:** [DrifterCode.com](https://driftercode.com), [kodeFant.no](https://kodefant.no) and [The Github repository](https://github.com/kodeFant/wp_kodefant)
 
-### Day 2: October 2st, 2018
+### Day 2: October 2nd, 2018
 
 #####
 
@@ -56,7 +56,7 @@ The upside to the hardships of today is that I found a fun CSS Grid Game: [Grid 
 
 **Link to work:** Deployment not yet ready yet. I have a [Github repository](https://github.com/kodeFant/restaurant-app)
 
-### Day 4: October 4rd, 2018
+### Day 4: October 4th, 2018
 
 #####
 
@@ -69,3 +69,21 @@ The upside to the hardships of today is that I found a fun CSS Grid Game: [Grid 
 **Plans for tomorrow:** Returning to IE11 optimization on my current blog. Will probably also deploy early version of the Restaurant app.
 
 **Link to work:** Deployment not yet ready yet for the restaurant app. I have a [Github repository](https://github.com/kodeFant/restaurant-app)
+
+### Day 5: October 5th, 2018
+
+#####
+
+**Today's Progress:** Fixed my CSS Grid IE11 Support on pages. It was pretty easy as I had already done the work for posts. I also started creating a pretty nice layout on my Restaurant App, with Bootstrap.
+
+
+**Thoughts:** Back in Oslo and ready to put in some serious hours of coding.
+
+It was relieving to test my blog and see that it looks pretty good with IE11 with CSS Grid. I think the CSS Grid will totally replace the Bootstrap Grid System for me.
+
+Even though I think custom CSS is great and more fun, I am using Bootstrap on my restaurant app. It adds speed to the development process of a user interface and I think some clients would appreciate that.
+
+
+**Plans for tomorrow:** Countinue on the restaurant app, and maybe get to deploy an early version.
+
+**Link to work:** [kodefant.no](https://kodefant.no) and [driftercode.com](https://driftercode.com) Deployment not yet ready for the restaurant app. I have a [Github repository](https://github.com/kodeFant/restaurant-app) for it.
