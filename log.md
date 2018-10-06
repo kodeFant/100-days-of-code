@@ -89,3 +89,17 @@ Even though I think custom CSS is great and more fun, I am using Bootstrap on my
 **Link to work:** [kodefant.no](https://kodefant.no) and [driftercode.com](https://driftercode.com) Deployment not yet ready for the restaurant app. I have a [Github repository](https://github.com/kodeFant/restaurant-app) for it.
 
 ![alt text](img/screenshot5.png)
+
+### Day 6: October 6th, 2018
+
+#####
+
+**Today's Progress:** Slow progress today. Did some small patchwork in React, but nothing special.
+
+
+**Thoughts:** Don't write the wrong password too many times via ssh on your site. You will be banned from yourself.
+
+
+**Plans for tomorrow:** Restaurant app. Planning to finish it by next week.
+
+**Link to work:** [Restaurant app](https://github.com/kodeFant/restaurant-app)
