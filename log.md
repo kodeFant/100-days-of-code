@@ -103,3 +103,24 @@ Even though I think custom CSS is great and more fun, I am using Bootstrap on my
 **Plans for tomorrow:** Restaurant app. Planning to finish it by next week.
 
 **Link to work:** [Restaurant app](https://github.com/kodeFant/restaurant-app)
+
+
+#####
+
+**Today's Progress:** Played around with Bootstrap 4 and finally managed deploying the React build.
+
+Don't write the wrong password too maDon't write the wrong password too many times via ssh on your site. You will be banned from yourself.ny times via ssh on your site. You will be banned from yourself.
+
+**Thoughts:** Deploying the React App wasn't really hard, but I did not really see the point of the serve command for running the build version on my CPanel managed server. Luckily, I had SSH access and node, so it worked. React should be deployed.
+
+I have been doing some thinking on how I should solve the backend on a very simple app like this. WordPress REST API with Advanced Custom Fields should work find, but I am wondering if WordPress is at all necessary.
+
+I might do it in Laravel and make a CMS with Laravel Voyager.
+
+I also like the thought of learning GraphQL, but I am not sure I like the GraphCMS Pricing Model. Then I would rather use [WPGraphQL](https://wpgraphql.com/) as it also would lessen the server load by being very specific on the queries. I could also use Laravel with GraphQL, but I would also like a quick CMS dashboard for the end user.
+
+
+**Plans for tomorrow:** Will continue on the restaurant app. Will need to figure out which backend solution I will want to use.
+
+**Link to work:** [Restaurant app](https://github.com/kodeFant/restaurant-app)
+
