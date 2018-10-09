@@ -104,6 +104,7 @@ Even though I think custom CSS is great and more fun, I am using Bootstrap on my
 
 **Link to work:** [Restaurant app](https://github.com/kodeFant/restaurant-app)
 
+### Day 7: October 7th, 2018
 
 #####
 
@@ -124,3 +125,28 @@ I also like the thought of learning GraphQL, but I am not sure I like the GraphC
 
 **Link to work:** [Restaurant app](https://github.com/kodeFant/restaurant-app)
 
+### Day 8: October 8th, 2018
+
+#####
+
+**Today's Progress:** Worked with Bootstrap and React on Restaurant App. Did some research on restaurant booking and started working on a chart for a blog post with Chart.js.
+
+**Thoughts:** I am realizing that even though React is a good library for maintaining the front end, I would not use it for small projects requiring small tasks just yet. So I am considering porting the restaurant app to WordPress instead of overengineering a simple app.
+
+**Plans for tomorrow:** Had some front end bugs on my wordpress site, so will try to fix that.
+
+
+### Day 9: October 9th, 2018
+
+#####
+
+**Today's Progress:** Fixed issue with width on mobile view on a blog post. I assumed it was the video, and that frustrated me because I believed it was fixed. Luckily, I found out after not too long it was a too long word in a blockquote. I fixed it with the CSS word-break-property. What would I do without Chrome's Developer tools?
+
+I have tried to make a Chart.js bar chart responsive, but neither the documentation nor Stack Overflow could help me.
+
+**Thoughts:** Wondering if I should learn D3 for charts. I think it would be fun to make custom charts for other people, and it would aid my journalism skills.
+
+
+**Plans for tomorrow:** Figure out how to make a proper responsive chart and finish my bar chart for my new blog post.
+
+**Link to work:** [DrifterCode.com](https://driftercode.com)
