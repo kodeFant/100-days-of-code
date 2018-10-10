@@ -150,3 +150,14 @@ I have tried to make a Chart.js bar chart responsive, but neither the documentat
 **Plans for tomorrow:** Figure out how to make a proper responsive chart and finish my bar chart for my new blog post.
 
 **Link to work:** [DrifterCode.com](https://driftercode.com)
+
+### Day 10: October 10th, 2018
+
+#####
+
+**Today's Progress:** Short day of coding today. Continued tinkering with Charts.js. Tried to figure out if it had something to do with CSS Grid, but it did not. I probably need to force it with a width of 100% with JavaScript, but did not have time for it today.
+
+**Thoughts:** I have had lots of troubles with elements not respecting parent with. Must be a common pain point of CSS.
+
+
+**Plans for tomorrow:** Fix chart with JavaScript and finish blog post about testing IE11 on Mac or Linux.
