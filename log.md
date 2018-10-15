@@ -161,3 +161,18 @@ I have tried to make a Chart.js bar chart responsive, but neither the documentat
 
 
 **Plans for tomorrow:** Fix chart with JavaScript and finish blog post about testing IE11 on Mac or Linux.
+
+### Day 11: October 15th, 2018
+
+#####
+
+*Unfortunately, I had a couple of sick days, and was not able to code. I choose to continue my "streak" even though it will contain a hole.*
+
+**Today's Progress:** Ditched charts.js and replaced it with [Apexcharts](https://apexcharts.com/) on my blog. This was great, and worked just as well with no resposiveness-issues. I also managed to do a CSS-fix on images with captions not respecting the max-width of the parent element.
+
+**Thoughts:** An upside to being forced to take a couple of days off, was that I discovered a new charts library that was better for my use. I am also deciding to use templates and frameworks more as I feel like I have got the fundamentals of modern CSS down now.
+
+
+**Plans for tomorrow:** Continue on making a restaurant app, and make some decisions on the infrastructure.
+
+**Link to work:** [My Blog Post in Norwegian (English version not ready yet)](https://kodefant.no/slik-tester-du-internet-explorer-med-mac/)
