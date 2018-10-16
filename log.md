@@ -176,3 +176,16 @@ I have tried to make a Chart.js bar chart responsive, but neither the documentat
 **Plans for tomorrow:** Continue on making a restaurant app, and make some decisions on the infrastructure.
 
 **Link to work:** [My Blog Post in Norwegian (English version not ready yet)](https://kodefant.no/slik-tester-du-internet-explorer-med-mac/)
+
+### Day 12: October 16th, 2018
+
+#####
+
+**Today's Progress:** Got familiar with CSS Modules on Create React App 2. I also decided to start my restaurant App anew and think of it as a front-end project and not think too much about the back-end, as i would not have so much to show for on a simple app like this anyway. I decided yet again to do it with React to get the practice. I could have improved on the existing, but it was so early anyway, so it doesn't matter.
+
+**Thoughts:** I have been feeling like not getting progress at the pace I would wish. So I will now plan for launching my projects at my site at a very early stage, like Minimal Viable Products. I can improve on these later, so I need not make them perfect at first attempt.
+
+
+**Plans for tomorrow:** Will make a nice front page for new restaurant app with CSS Animations.
+
+**Link to work:** [New Restaurant App)](https://github.com/kodeFant/potato-royale)
