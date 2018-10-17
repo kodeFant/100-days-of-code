@@ -189,3 +189,16 @@ I have tried to make a Chart.js bar chart responsive, but neither the documentat
 **Plans for tomorrow:** Will make a nice front page for new restaurant app with CSS Animations.
 
 **Link to work:** [New Restaurant App)](https://github.com/kodeFant/potato-royale)
+
+### Day 13: October 17th, 2018
+
+#####
+
+**Today's Progress:** I continued to implement CSS Modules on a Bookmark App I am making in Laravel and React. Replacing SCSS with CSS Modules feels very good. I also worked on implementning prism syntax highlighting on my Blog. What always hits me on the blog is that all new elements I implement have issues with respecting viewport width. I wish I knew why.
+
+**Thoughts:** I have decided to write a Blog post about quickly getting started on CSS modules. It's so easy when it works out of the box with CRA2.
+
+
+**Plans for tomorrow:** Finish Blog Post about CSS Modules and do front end work on my full stack bookmark app.
+
+**Link to work:** [New Restaurant App)](https://github.com/kodeFant/potato-royale)
