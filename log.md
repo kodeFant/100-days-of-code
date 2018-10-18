@@ -201,4 +201,15 @@ I have tried to make a Chart.js bar chart responsive, but neither the documentat
 
 **Plans for tomorrow:** Finish Blog Post about CSS Modules and do front end work on my full stack bookmark app.
 
-**Link to work:** [New Restaurant App)](https://github.com/kodeFant/potato-royale)
+### Day 14: October 18th, 2018
+
+#####
+
+**Today's Progress:** Did Front End work on my wordpress Blog. Implemented Prism to paste code snippets with syntax highlighting on my blog. I think I finally managed to solve a width issue that has been bugging me a lot when embedding new stuff in the content area. I also wrote a minimalist how-to on how to get started quickly with CSS Modules on Create React App 2. I also took a look at the Gatsby.js documentation and I am really tempted to try it out.
+
+**Thoughts:** Small issues on CSS can be frustrating, but I feel very good when I finally understand what caused them.
+
+
+**Plans for tomorrow:** Continue doing front-end-work on my Laravel/React Bookmark App. Maybe also follow some of the Gatsby tutorials.
+
+**Link to work:** [DrifterCode.com](https://driftercode.com)
