@@ -213,3 +213,14 @@ I have tried to make a Chart.js bar chart responsive, but neither the documentat
 **Plans for tomorrow:** Continue doing front-end-work on my Laravel/React Bookmark App. Maybe also follow some of the Gatsby tutorials.
 
 **Link to work:** [DrifterCode.com](https://driftercode.com)
+
+### Day 15: October 19th, 2018
+
+#####
+
+**Today's Progress:** Decided to make my restaurant app based on an HTML template and I bought one. I also went trough 1-6 of the 8 steps in the Gatsby tutorial and I am really impressed. This tool is amazing and I have decided to restart the restaurant project for a third time and do it with Gatsby. It was just the tool I really wished for. The tutorial also gave me my first feel for GraphQL, and now I get why this is so popular.
+
+**Thoughts:** GraphQL is almost like sending a MySQL query directly from the front end instead of creating a REST API. This is true progress. Why should it be any other way?
+
+
+**Plans for tomorrow:** Will Finish GraphQL tutorial and start porting the HTML template to a Gatsby Project.
