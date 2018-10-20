@@ -224,3 +224,14 @@ I have tried to make a Chart.js bar chart responsive, but neither the documentat
 
 
 **Plans for tomorrow:** Will Finish GraphQL tutorial and start porting the HTML template to a Gatsby Project.
+
+### Day 15: October 19th, 2018
+
+#####
+
+**Today's Progress:** Finished GraphQL tutorial.
+
+**Thoughts:** Most of my day went into trying to fix my local mySQL install which broke because of a headless wordpress starter. Did not get to fix it today. Such a nasty mess when mySQL breaks. I don't like it.
+
+
+**Plans for tomorrow:** Fix MySQL.
