@@ -28,8 +28,7 @@ Just to be clear, these tools are actually amazing, free and open source.
 
 I chose to completely replace my auto-placement grid for Blog Posts with Flexbox as it did the excact same thing. I adapted the technique in part three of that CSS-Tricks series.
 
-
-**Thoughts:** It was a big effort making the CSS grid work with IE11, even when using autoprefixer with their grid support enables. 
+**Thoughts:** It was a big effort making the CSS grid work with IE11, even when using autoprefixer with their grid support enables.
 
 I want to support IE11 because about [10 percent of Norwegians use IE](http://gs.statcounter.com/browser-market-share/all/norway), and lots of them are in large organisations. I of course want to make a good impression on these organisations.
 
@@ -49,7 +48,6 @@ The upside to the hardships of today is that I found a fun CSS Grid Game: [Grid 
 
 **Today's Progress:** Short workday today as I am sitting on the bus to Gothenburg for a small trip. Had some connection troubles so decided to postpone IE11 optimization and start building on my restaurant app. I started a new create-react-app project and set up some markup in JSX. I also decided to go with Bootstrap on this one.
 
-
 **Thoughts:** It feels good to build with React again after a long period of WordPress. I am still not totally decided on WP REST API og Laravel for the back end, but I thin I want to try WP REST API to test how well it runs with React.
 
 **Plans for tomorrow:** Taking the bus back home to Oslo. Will probably continue on the Restaurant app then.
@@ -62,9 +60,7 @@ The upside to the hardships of today is that I found a fun CSS Grid Game: [Grid 
 
 **Today's Progress:** Heading home for Oslo today. Had only time to code on the bus. I familiarized myself with Reactstrap for using Bootstrap component in React. I really liked it. It seems like a timesaver and it has ready-made bootstrap component that I can freely modify. Loving it.
 
-
 **Thoughts:** After doing custom CSS for a while, it feels like Bootstrap makes things really quick, but requires you to do a lot of styling over that again t avoid the "bootstrappy" look. Still, it is still a great time-saver for projects that needs a user interface pretty fast.
-
 
 **Plans for tomorrow:** Returning to IE11 optimization on my current blog. Will probably also deploy early version of the Restaurant app.
 
@@ -76,13 +72,11 @@ The upside to the hardships of today is that I found a fun CSS Grid Game: [Grid 
 
 **Today's Progress:** Fixed my CSS Grid IE11 Support on pages. It was pretty easy as I had already done the work for posts. I also started creating a pretty nice layout on my Restaurant App, with Bootstrap.
 
-
 **Thoughts:** Back in Oslo and ready to put in some serious hours of coding.
 
 It was relieving to test my blog and see that it looks pretty good with IE11 with CSS Grid. I think the CSS Grid will totally replace the Bootstrap Grid System for me.
 
 Even though I think custom CSS is great and more fun, I am using Bootstrap on my restaurant app. It adds speed to the development process of a user interface and I think some clients would appreciate that.
-
 
 **Plans for tomorrow:** Countinue on the restaurant app, and maybe get to deploy an early version.
 
@@ -96,9 +90,7 @@ Even though I think custom CSS is great and more fun, I am using Bootstrap on my
 
 **Today's Progress:** Slow progress today. Did some small patchwork in React, but nothing special.
 
-
 **Thoughts:** Don't write the wrong password too many times via ssh on your site. You will be banned from yourself.
-
 
 **Plans for tomorrow:** Restaurant app. Planning to finish it by next week.
 
@@ -120,7 +112,6 @@ I might do it in Laravel and make a CMS with Laravel Voyager.
 
 I also like the thought of learning GraphQL, but I am not sure I like the GraphCMS Pricing Model. Then I would rather use [WPGraphQL](https://wpgraphql.com/) as it also would lessen the server load by being very specific on the queries. I could also use Laravel with GraphQL, but I would also like a quick CMS dashboard for the end user.
 
-
 **Plans for tomorrow:** Will continue on the restaurant app. Will need to figure out which backend solution I will want to use.
 
 **Link to work:** [Restaurant app](https://github.com/kodeFant/restaurant-app)
@@ -135,7 +126,6 @@ I also like the thought of learning GraphQL, but I am not sure I like the GraphC
 
 **Plans for tomorrow:** Had some front end bugs on my wordpress site, so will try to fix that.
 
-
 ### Day 9: October 9th, 2018
 
 #####
@@ -145,7 +135,6 @@ I also like the thought of learning GraphQL, but I am not sure I like the GraphC
 I have tried to make a Chart.js bar chart responsive, but neither the documentation nor Stack Overflow could help me.
 
 **Thoughts:** Wondering if I should learn D3 for charts. I think it would be fun to make custom charts for other people, and it would aid my journalism skills.
-
 
 **Plans for tomorrow:** Figure out how to make a proper responsive chart and finish my bar chart for my new blog post.
 
@@ -159,19 +148,17 @@ I have tried to make a Chart.js bar chart responsive, but neither the documentat
 
 **Thoughts:** I have had lots of troubles with elements not respecting parent with. Must be a common pain point of CSS.
 
-
 **Plans for tomorrow:** Fix chart with JavaScript and finish blog post about testing IE11 on Mac or Linux.
 
 ### Day 11: October 15th, 2018
 
 #####
 
-*Unfortunately, I had a couple of sick days, and was not able to code. I choose to continue my "streak" even though it will contain a hole.*
+_Unfortunately, I had a couple of sick days, and was not able to code. I choose to continue my "streak" even though it will contain a hole._
 
 **Today's Progress:** Ditched charts.js and replaced it with [Apexcharts](https://apexcharts.com/) on my blog. This was great, and worked just as well with no resposiveness-issues. I also managed to do a CSS-fix on images with captions not respecting the max-width of the parent element.
 
 **Thoughts:** An upside to being forced to take a couple of days off, was that I discovered a new charts library that was better for my use. I am also deciding to use templates and frameworks more as I feel like I have got the fundamentals of modern CSS down now.
-
 
 **Plans for tomorrow:** Continue on making a restaurant app, and make some decisions on the infrastructure.
 
@@ -185,7 +172,6 @@ I have tried to make a Chart.js bar chart responsive, but neither the documentat
 
 **Thoughts:** I have been feeling like not getting progress at the pace I would wish. So I will now plan for launching my projects at my site at a very early stage, like Minimal Viable Products. I can improve on these later, so I need not make them perfect at first attempt.
 
-
 **Plans for tomorrow:** Will make a nice front page for new restaurant app with CSS Animations.
 
 **Link to work:** [New Restaurant App)](https://github.com/kodeFant/potato-royale)
@@ -198,7 +184,6 @@ I have tried to make a Chart.js bar chart responsive, but neither the documentat
 
 **Thoughts:** I have decided to write a Blog post about quickly getting started on CSS modules. It's so easy when it works out of the box with CRA2.
 
-
 **Plans for tomorrow:** Finish Blog Post about CSS Modules and do front end work on my full stack bookmark app.
 
 ### Day 14: October 18th, 2018
@@ -208,7 +193,6 @@ I have tried to make a Chart.js bar chart responsive, but neither the documentat
 **Today's Progress:** Did Front End work on my wordpress Blog. Implemented Prism to paste code snippets with syntax highlighting on my blog. I think I finally managed to solve a width issue that has been bugging me a lot when embedding new stuff in the content area. I also wrote a minimalist how-to on how to get started quickly with CSS Modules on Create React App 2. I also took a look at the Gatsby.js documentation and I am really tempted to try it out.
 
 **Thoughts:** Small issues on CSS can be frustrating, but I feel very good when I finally understand what caused them.
-
 
 **Plans for tomorrow:** Continue doing front-end-work on my Laravel/React Bookmark App. Maybe also follow some of the Gatsby tutorials.
 
@@ -222,10 +206,9 @@ I have tried to make a Chart.js bar chart responsive, but neither the documentat
 
 **Thoughts:** GraphQL is almost like sending a MySQL query directly from the front end instead of creating a REST API. This is true progress. Why should it be any other way?
 
-
 **Plans for tomorrow:** Will Finish GraphQL tutorial and start porting the HTML template to a Gatsby Project.
 
-### Day 15: October 19th, 2018
+### Day 16: October 20th, 2018
 
 #####
 
@@ -233,5 +216,14 @@ I have tried to make a Chart.js bar chart responsive, but neither the documentat
 
 **Thoughts:** Most of my day went into trying to fix my local mySQL install which broke because of a headless wordpress starter. Did not get to fix it today. Such a nasty mess when mySQL breaks. I don't like it.
 
-
 **Plans for tomorrow:** Fix MySQL.
+
+### Day 17: October 21th, 2018
+
+#####
+
+**Today's Progress:** Fixed mySQL and instead tested a Gatsby JS Wordpress-plugin. It worked very well, so I don't see the use for the headless WP starter anymore. I have started on converting a pretty complex HTML template to a GatsbyJS app, and when the frontend is finished, I will add a WordPress back end to it.
+
+**Thoughts:** It feels very nice developing in a React-environment again. I have been working on WordPress for a while, which to my surprize then felt much harder.
+
+**Plans for tomorrow:** Finish Header-component on GatsbyJS restaurant app.
