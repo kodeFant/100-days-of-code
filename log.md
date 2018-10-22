@@ -227,3 +227,15 @@ _Unfortunately, I had a couple of sick days, and was not able to code. I choose 
 **Thoughts:** It feels very nice developing in a React-environment again. I have been working on WordPress for a while, which to my surprize then felt much harder.
 
 **Plans for tomorrow:** Finish Header-component on GatsbyJS restaurant app.
+
+### Day 18: October 22th, 2018
+
+#####
+
+**Today's Progress:** Finished converting a navbar into React components in Gatsby JS. Also published a blogpost about CSS modules on my Blog.
+
+**Thoughts:** When I first learned React, it felt really hard, but as I grew on it, I must say it is really nice to work with. I am considering porting the front-end of my Blog to React/Gatsby one day.
+
+**Plans for tomorrow:** Make the footer on GatsbyJS restaurant app.
+
+**Link to work:** [CSS modules on React: Get started quickly](https://driftercode.com/css-modules-on-react-get-started-quickly/)
