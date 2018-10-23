@@ -239,3 +239,15 @@ _Unfortunately, I had a couple of sick days, and was not able to code. I choose 
 **Plans for tomorrow:** Make the footer on GatsbyJS restaurant app.
 
 **Link to work:** [CSS modules on React: Get started quickly](https://driftercode.com/css-modules-on-react-get-started-quickly/)
+
+### Day 19: October 23th, 2018
+
+#####
+
+**Today's Progress:** Created more React components from a template made of HTML/CSS/jQuery. I'm replacing all jQuery functionality with React logic, and it is working very well. Replaced Own Carousel Sliders with the React port of Swiper.
+
+**Thoughts:** It was very heartening that replacing one slider library with another worked so well. The [react-id-swiper](https://github.com/kidjp85/react-id-swiper) had also very good documentation, so making it work was very quick.
+
+**Plans for tomorrow:** Will dive into making a filterable menu based on categories. This is a next step to learn well.
+
+**Link to work:** https://github.com/kodeFant/kodefant-mat
