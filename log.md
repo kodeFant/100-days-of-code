@@ -251,3 +251,13 @@ _Unfortunately, I had a couple of sick days, and was not able to code. I choose 
 **Plans for tomorrow:** Will dive into making a filterable menu based on categories. This is a next step to learn well.
 
 **Link to work:** https://github.com/kodeFant/kodefant-mat
+
+### Day 20: October 23th, 2018
+
+#####
+
+**Today's Progress:** I want to see how filtering in React is solved by others, so I treated myself to some video coursing today. I have done some filtering before, but it has not quite stuck to my mind.
+
+**Thoughts:** React has released a new version with easy functionality for lazy-loading any route or page. Sounds pretty awesome.
+
+**Plans for tomorrow:** Finish React course on filtering and
