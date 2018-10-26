@@ -252,7 +252,7 @@ _Unfortunately, I had a couple of sick days, and was not able to code. I choose 
 
 **Link to work:** https://github.com/kodeFant/kodefant-mat
 
-### Day 20: October 23th, 2018
+### Day 20: October 24th, 2018
 
 #####
 
@@ -260,4 +260,24 @@ _Unfortunately, I had a couple of sick days, and was not able to code. I choose 
 
 **Thoughts:** React has released a new version with easy functionality for lazy-loading any route or page. Sounds pretty awesome.
 
-**Plans for tomorrow:** Finish React course on filtering and
+**Plans for tomorrow:** Finish React course on filtering.
+
+### Day 21: October 25th, 2018
+
+#####
+
+**Today's Progress:** Finished React Course and learned to filter in React. Had hours of soulsucking bug-search for some CSS that made Gatsby unable to compile a build version. Found that it was some bad CSS animations from the template I was builing on.
+
+**Thoughts:** Building on a template on a previous design was cool, but next time I might create a site based on Dribble or a PSD template.
+
+**Plans for tomorrow:** Make some more components for the restaurant app. Should be ready for deployment in a few days.
+
+### Day 22: October 26th, 2018
+
+#####
+
+**Today's Progress:** Finished lots of React components for my restaurant app. Did more refactoring to CSS modules. I also watched some videos about animations with React Transition Group.
+
+**Thoughts:** I must admit that I think refactoring a CSS sheet with lots of inheritance to CSS modules was a mistake. I should probably have just left it as it was. But I will have a template that is very easy to customize.
+
+**Plans for tomorrow:** Continue converting plain HTML and CSS to React-components and CSS Modules.
