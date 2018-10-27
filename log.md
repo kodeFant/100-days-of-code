@@ -281,3 +281,13 @@ _Unfortunately, I had a couple of sick days, and was not able to code. I choose 
 **Thoughts:** I must admit that I think refactoring a CSS sheet with lots of inheritance to CSS modules was a mistake. I should probably have just left it as it was. But I will have a template that is very easy to customize.
 
 **Plans for tomorrow:** Continue converting plain HTML and CSS to React-components and CSS Modules.
+
+### Day 23: October 27th, 2018
+
+#####
+
+**Today's Progress:** Played around with state and fixed some responsive styling bugs. Also started on animating page transisions.
+
+**Thoughts:** React has some news features I want to check. I also need to get a better feel for LifeCycle methods.
+
+**Plans for tomorrow:** Minor front end work on restaurant app.
