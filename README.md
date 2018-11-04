@@ -1,13 +1,7 @@
-# I've joined the #100DaysOfCode Challenge
+Hi.
 
-## Contents
+I decided to only post my #100DaysOfCode progress on Twitter as I found that to be more than enough. I am all about building projects now, so trying to invest most my time in that :)
 
-* [Log - click here to see my progress](log.md)
-* [Rules](rules.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+Therefore, you can see my **#100DaysOfCode** updates on [my Twitter](https://twitter.com/larsparsfromage).
 
-## If you've decided to join:
-
-0.  Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
-    Also, [here](https://join.slack.com/t/100xcode/shared_invite/enQtMzA2NzUyODY4MTgyLWM2NzMzYzBmZTcwOTk0MzM2YTI5OWQzM2M3ZTVjZTUyMTE0NDk3ZjdiZmExNGU5Mjg3ODgzZTQxODI3YTNjZjA) is a invite link to the 100DaysOfCode Slack channel
+- Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement.
